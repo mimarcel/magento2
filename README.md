@@ -6,7 +6,7 @@ Here is a list of issues and pull requests reported to [Magento 2 official repos
 
 |#|Issue|Related Modules|Status|
 |-|-----|---------------|------|
-|8|[#10056 - Translate password field placeholder in Checkout](https://github.com/magento/magento2/pull/10056)|Magento_Checkout|Open|
+|8|[#10056 - Translate password field placeholder in Checkout](https://github.com/magento/magento2/pull/10056)|Magento_Checkout|Merged|
 |7|[#9430 - Fix wrong store id filter](https://github.com/magento/magento2/pull/9430)|Magento_CatalogSearch|Merged|
 |6|[#9429 - Fix not detecting current store using store code in url](https://github.com/magento/magento2/pull/9429)|Magento_Customer,Magento_Checkout|Merged|
 |5|[#8690 - Fix SALES_ORDER_TAX_ITEM_TAX_ID_ITEM_ID duplicates](https://github.com/magento/magento2/pull/8690)|Magento_Tax|Merged|
