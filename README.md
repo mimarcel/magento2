@@ -6,6 +6,7 @@ Here is a list of issues and pull requests reported to [Magento 2 official repos
 
 |#|Type|Description|Related Modules|Status|
 |-|----|-----------|---------------|------|
+|11|PR|[#13649 - Fix possible undefined index when caching config data](https://github.com/magento/magento2/pull/13649)|Magento_Config|Open|
 |10|Issue|[#12087 - Unable to insert widget with text value which contains }} string ](https://github.com/magento/magento2/issues/12087)|Magento_Widget|Open|
 |9|PR|[#10056 - Translate password field placeholder in Checkout](https://github.com/magento/magento2/pull/10056)|Magento_Checkout|Merged|
 |8|PR|[#9430 - Fix wrong store id filter](https://github.com/magento/magento2/pull/9430)|Magento_CatalogSearch|Merged|
